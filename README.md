@@ -27,14 +27,6 @@
 
 ---
 #### Get Started : &nbsp;
-##### Back-End
-- Create a mysql based database, named by *database_development_footfem*, *database_test_footfem*, *database_production_footfem*
-- Clone the back end project and "npm install"
-- Run the commande "npx sequelize-cli db:migrate" (you need npm v5.2.0 and over to use "npx" commande)
-- Run the commande "npm install"  
-- Run the commande "npm start"  
-
-&nbsp;
 ##### Front-End
 - Clone the project from github
 - In a commande terminal use a "cd" to go to the root of the project
