@@ -52,3 +52,6 @@
 &nbsp;
 
 **Robin Palmier** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Front-End & Back-End Developer* *(Project Manager)*
+&nbsp;
+
+Carried out in 12 days.
