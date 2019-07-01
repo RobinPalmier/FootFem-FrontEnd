@@ -4,7 +4,7 @@
 
 ---
 
- #### Features :
+ #### Main features :
 * display in progress, today's and future matches
 * display finals tree board
 * display teams stats
